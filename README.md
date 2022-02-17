@@ -28,4 +28,4 @@ Please check the #falco-queue channel in our public dicord [Falcodrin](https://d
 - Please wait for 10-15 seconds for the process to complete
 - If successful, you will be redirected to the order confirmation screen.
 
-\*\* I release this is not the best workflow. This is a work in progress. If problems, disable the script via Tamper Monkey, and manually checkout yourself.
+\*\* I realize this is not the best workflow. This is a work in progress. If problems, disable the script via Tamper Monkey, and manually checkout yourself.
